@@ -25,6 +25,6 @@
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>
     
-<div id="scrollup" style="width: 40px; height: 40px; background: url(./img/sprites.png) no-repeat -538px 10px;"></div>
+<div id="scrollup" style="width: 40px; height: 40px; background:#aaa url(./img/sprites.png) no-repeat -538px 10px;"></div>
 </body>
 </html>
